@@ -5,3 +5,6 @@ print(a)
 
 
 ####OK
+
+
+'''the following code prints value of a'''
